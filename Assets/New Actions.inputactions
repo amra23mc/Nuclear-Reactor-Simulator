@@ -1,0 +1,45 @@
+{
+    "name": "New Actions",
+    "maps": [
+        {
+            "name": "Quit",
+            "id": "dc16b6e2-d39b-4f95-a253-2cdaf216117e",
+            "actions": [
+                {
+                    "name": "New action",
+                    "type": "Button",
+                    "id": "914214cd-6c86-4b19-a7cc-170c6bd375dc",
+                    "expectedControlType": "",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "88334f1e-e934-4d2e-8cab-c6abc659230c",
+                    "path": "<Mouse>/backButton",
+                    "interactions": "Press",
+                    "processors": "",
+                    "groups": "",
+                    "action": "New action",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "6455b75f-13b4-48b9-ba82-0bd0bfc55833",
+                    "path": "",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "New action",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}
